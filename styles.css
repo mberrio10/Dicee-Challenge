@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url('Scraps.jpg');
+  background-image: url('/images/Scraps.jpg');
   background-size: cover;
   background-color: #393e46;
 }
